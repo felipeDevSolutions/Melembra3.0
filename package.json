@@ -1,0 +1,16 @@
+{
+  "name": "me-lembra-3.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "play-sound": "^1.1.5",
+    "playwright": "^1.36.1"
+  }
+}
