@@ -3,7 +3,7 @@ const { Script } = require('vm');
 const player = require('play-sound')(opts = {});
 
 // Carregue o arquivo de áudio
-const audioFile = 'C:\\Users\\felip\\Downloads\\Nova pasta\\Nova requisição Base Laboratórios - FX.mp3';
+const audioFile = 'Nova requisição Base Laboratórios - FX.mp3';
 
 // Defina uma função para reproduzir o áudio
 function playAudio() {
